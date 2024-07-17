@@ -301,3 +301,5 @@ SB_INTERNAL void PrintRunRange(IsolatingRunRef isolatingRun)
 }
 
 #endif
+
+typedef int make_iso_compilers_happy;
